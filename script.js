@@ -16,7 +16,7 @@ const btnRoll = document.querySelector('.btn--roll');
 const btnHold = document.querySelector('.btn--hold');
 
 
-// Define essential variable
+// Define essential variables
 let scores, currentScore, activePlayer, playing;
 
 
